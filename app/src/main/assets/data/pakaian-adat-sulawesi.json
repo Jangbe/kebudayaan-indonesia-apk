@@ -1,0 +1,59 @@
+{
+    "nama":"Pakaian Adat Pulau Sulawesi",
+    "data": [
+        {
+            "provinsi":"Sulawesi Selatan",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN BODO",
+                    "gambar": "pa-sulsel.jpg"
+                }
+            ]
+        },
+        {
+            "provinsi":"Sulawesi Utara",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN LAKU TEPU",
+                    "gambar": "pa-sulut.jpg"
+                }
+            ]
+        },
+        {
+            "provinsi":"Sulawesi Tenggara",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN BABU NGGAWI",
+                    "gambar": "pa-sultra.png"
+                }
+            ]
+        },
+        {
+            "provinsi":"Sulawesi Barat",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN PATTUQDUQ TOWAINE",
+                    "gambar": "pa-sulbar.jpg"
+                }
+            ]
+        },
+        {
+            "provinsi":"Sulawesi Tengah",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN KOJE(laki-laki) dan NGEMBE(Perempuan)",
+                    "gambar": "pa-sulteng.jpg"
+                }
+            ]
+        },
+        {
+            "provinsi":"Gorontalo",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN Makuta(laki-laki) dan Biliu(Perempuan)",
+                    "gambar": "pa-goron.png"
+                }
+            ]
+        }
+    ]
+}

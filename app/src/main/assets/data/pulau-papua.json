@@ -1,0 +1,18 @@
+{
+   "nama":"Papua",
+    "audio":"pulau-papua.mp3",
+    "mulai":2800,
+    "durasi":[1200,1500],
+    "provinsi": [
+        {
+            "nama":"Papua",
+            "logo":"papua.png",
+            "deskripsi":"adalah provinsi yang terletak di bagian tengah Pulau Papua atau bagian paling timur wilayah Papua milik Indonesia. Belahan timurnya merupakan negara Papua Nugini. Provinsi Papua sebelumnya bernama Irian Jaya. Provinsi Papua memiliki luas 312.224,37 km2 dan merupakan provinsi terbesar dan terluas pertama di Indonesia.Sebelah Utara Provinsi ini berbatasan dengan Samudera Pasifik, sebelah barat berbatasan dengan Provinsi Papua Barat dan Provinsi Maluku, sebelah timur berbatasan dengan Provinsi Barat, Provinsi Sandaun, dan sebelah selatan berbatasan dengan Samudera Hindia, Laut Arafuru, Teluk Carpentaria, Australia"
+        },
+        {
+            "nama":"Papua Barat",
+            "logo":"papua.barat.png",
+            "deskripsi":"adalah sebuah provinsi Indonesia yang terletak di ujung barat Pulau Papua. Wilayah Papua Barat mencakup Semenanjung Domberai, Bomberai, Wondiwoi, serta Kepulauan Raja Ampat. Ibukota provinsi ini terletak di Manokwari dengan kota terbesarnya di Sorong.Sebelah Utara Provinsi ini berbatasan dengan Samudera Pasifik, sebelah barat berbatasan dengan Provinsi Maluku Utara dan Kepulauan Maluku, sebelah timur berbatasan dengan Provinsi Papua, dan sebelah selatan berbatasan dengan Laut Banda. "
+        }
+    ]
+}

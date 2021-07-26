@@ -1,0 +1,28 @@
+{
+    "nama":"Provinsi Pulau Bali Dan Nusa Tenggara",
+    "audio":"pulau-bali-dan-nusa-tenggara.mp3",
+    "mulai":3700,
+    "durasi":[1700,1800,1800,1800],
+    "provinsi": [
+        {
+            "nama":"Bali",
+            "logo":"logo-bali.png",
+            "deskripsi":"adalah sebuah provinsi di Indonesia yang ibu kota provinsinya bernama Denpasar. Bali juga merupakan salah satu pulau di Kepulauan Nusa Tenggara.Bali dikelilingi perairan yang menjadi batas wilayah provinsi, yaitu di sebelah utara Laut Bali, di sebelah selatan Samudera Hindia, di sebelah barat Selat Bali, dan di sebelah timur Selat Lombok. Luas wilayahnya 5.780,06 km2. Secara geografis, Bali terletak di 8°25′23″ Lintang Selatan dan 115°14′55″ Bujur Timur yang membuatnya beriklim tropis seperti bagian Indonesia yang lain."
+        },
+        {
+            "nama":"Nusa Tenggara Barat",
+            "logo":"logo-ntb.png",
+            "deskripsi":"adalah sebuah provinsi di Indonesia yang berada pada bagian Barat Kepulauan Nusa Tenggara. Ibu kota provinsi ini berada di kota Mataram.Wilayah ini memiliki luas wilayah 20.153,15 km2. Terletak antara 115° 46' - 119° 5' Bujur Timur dan 8° 10' - 9 °g 5' Lintang Selatan.Di sebelah utara, NTB berbatasan dengan Laut Jawa dan Laut Flores, di sebelah selatan berbatasan dengan Samudera Hindia, di sebelah barat berbatasan dengan Selat Lombok dan Provinsi Bali, dan di sebelah timur berbatasan dengan Selat Sape dan Provinsi Nusa Tenggara Timur."
+        },
+        {
+            "nama":"Nusa Tenggara Timur",
+            "logo":"logo-ntt.png",
+            "deskripsi":"adalah sebuah provinsi di Indonesia yang meliputi bagian timur Kepulauan Nusa Tenggara. Provinsi ini memiliki ibu kota di Kota Kupang.Luas wilayah ini 47.931,54 km2.Di sebelah utara, NTT berbatasan dengan Laut Flores, di sebelah selatan berbatasan dengan Samudra Hindia, di sebelah barat berbatasan dengan Provinsi Nusa Tenggara Barat, dan di sebelah timur berbatasan dengan Negara Timor Leste."
+        },
+        {
+            "nama":"Maluku",
+            "logo":"logo-maluku.png",
+            "deskripsi":"adalah sebuah provinsi yang meliputi bagian selatan Kepulauan Maluku, Indonesia.Ibu kota dan kota terbesarnya ialah kota Ambon.Luas wilayah ini adalah 46.914,03 km2.Batas-batas wilayah provinsi Maluku adalah Laut Seram (Utara), Lautan Indonesia dan Laut Arafuru (Selatan), Pulau Irian (Timur) dan Pulau Sulawesi (Barat)."
+        }
+    ]
+}

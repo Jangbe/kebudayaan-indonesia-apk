@@ -1,0 +1,45 @@
+{
+    "nama":"Pakaian Adat Pulau Bali dan Nusa Tenggara",
+    "data": [
+    {
+      "provinsi":"Bali",
+      "pakaian": [
+        {
+           "nama": "BAJU SAFARI ",
+           "gambar": "Pakaian-Adat-Bali-Safari.jpg"
+                },
+                {
+            "nama": "PAKAIAN PAYUNG PAYAS AGUNG ",
+            "gambar": "Pakaian-Adat-Bali-Payungpayas.png"
+                }
+            ]
+        },
+{
+    "provinsi":"Nusa Tenggara Timur",
+    "pakaian": [
+        {
+            "nama": "BAJU AMARASI ",
+            "gambar": "Pakaian-Adat-NTT-Asmirasi.png"
+        }
+    ]
+},
+{
+    "provinsi":"Nusa Tenggara Barat",
+    "pakaian": [
+        {
+            "nama": "Pakaian Lambung ",
+            "gambar": "Pakaian-Adat-NTB-Lambuk.jpg"
+        }    
+    ]
+},
+{
+    "provinsi":"Maluku",
+    "pakaian": [
+        {
+            "nama": "Baju Cele",
+            "gambar": "Pakaian-Adat-Maluku-Cele.png"
+        }
+    ]
+}
+    ]
+}

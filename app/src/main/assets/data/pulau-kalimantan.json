@@ -1,0 +1,33 @@
+{
+    "nama":"Kalimantan",
+    "audio":"pulau-kalimantan.mp3",
+    "mulai":3800,
+    "durasi":[1800,1700,1600,1400,1400],
+    "provinsi": [
+        {
+            "nama":"Kalimantan Timur",
+            "logo":"logo-kaltim.png",
+            "deskripsi":"adalah sebuah provinsi Indonesia di Pulau Kalimantan bagian ujung timur yang berbatasan dengan Malaysia, Kalimantan Utara, Kalimantan Tengah, Kalimantan Selatan, Kalimantan Barat, dan Sulawesi. Ibu kota provinsi ini adalah kota Samarinda. Luas total Kalimantan Utara adalah 127.346,92 km² ."
+        },
+        {
+            "nama":"Kalimantan Selatan",
+            "logo":"logo-kalsel.png",
+            "deskripsi":"adalah salah satu provinsi yang ada di Indonesia yang terletak di pulau Kalimantan. Ibu kotanya provinsi Kalimantan Selatan adalah kota Banjarmasin. Provinsi ini memiliki luas 38.744,00 km². Penduduk Kalimantan Selatan berjumlah 3.626.616 jiwa (2010). Batas batas Provinsi Kalimantan Selatan adalah Provinsi Kalimantan Tengah di sebelah Barat, Selat Makasar di sebelah Timur, Laut Jawa di sebelah Selatan, dan Provinsi Kalimantan Timur di sebelah Utara."
+        },
+        {
+            "nama":"Kalimantan Barat", 
+            "logo":"logo-kalbar.png",
+            "deskripsi":"adalah sebuah provinsi di Indonesia, yang berada di pulau Kalimantan, dengan ibu kota atau pusat pemerintahan berada di kota Pontianak.[5] Luas wilayah provinsi Kalimantan Barat adalah 147.307,00 km² (7,53% luas Indonesia).[6] Kalimantan Barat merupakan provinsi terluas keempat di Indonesia setelah Papua, Kalimantan Timur dan Kalimantan Tengah."
+        },
+        {
+            "nama":"Kalimantan Utara",
+            "logo":"logo-kalut.png",
+            "deskripsi":"adalah sebuah provinsi di Indonesia yang terletak di bagian utara Pulau Kalimantan. Provinsi ini berbatasan langsung dengan negara tetangga Malaysia, yaitu Negara Bagian Sabah dan Sarawak. Pusat pemerintahan Kalimantan Utara saat ini berada di Kota Tanjung Selor, bersama dengan pusat pemerintahan Kabupaten Bulungan.Luas wilayahnya 75.467,70 km2."
+        },
+        {
+            "nama":"Kalimantan Tengah",
+            "logo":"logo-kalteng.png",
+            "deskripsi":"adalah salah satu provinsi di Indonesia yang terletak di Pulau Kalimantan. Ibu kotanya adalah Kota Palangkaraya .Dengan luas wilayah 153.564,60 km2.  Berdasarkan sensus tahun 2010, provinsi ini memiliki populasi 2.202.599 jiwa, Batas Wilayah Provinsi Kalimantan Tengah adalah: - Sebelah Utara berbatasan dengan Provinsi Kalimantan Barat dan Kalimantan Timur. - Sebelah Selatan berbatasan dengan Laut Jawa. - Sebelah Timur berbatasan dengan Provinsi Kalimantan Timur dan Kalimantan Selatan."
+        }
+    ]
+}

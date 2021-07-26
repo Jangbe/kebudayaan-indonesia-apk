@@ -1,0 +1,35 @@
+{
+    "nama":"Rumah Adat Pulau Jawa",
+    "rumah_adat":[
+        {
+            "nama":"RUMAH SUNDA, JAWA BARAT",
+            "gambar": "Rumah-Adat-Jawa-Barat-Tradisional.jpg",
+            "deskripsi":"Rumah adat khas Sunda punya pengaruh yang cukup besar kepada masyarakat Jawa Barat. Rumah-rumah tradisional Sunda sebagian besar mengambil bentuk dasar struktur atap pelana, umumnya disebut atap gaya kampung, terbuat dari bahan-bahan dedaunan, menutupi kerangka kayu dan balok, dinding anyaman bambu, dan strukturnya dibangun di atas panggung pendek. Arsitektur rumah suku Sunda punya nilai fungsionalitas, kesederhanaan, kepolosan, dan keseragaman yang tinggi dengan sedikit detail. Hal ini mempertegas ikatan yang cukup teguh pada keselarasan dengan alam dan lingkungan."
+        },
+        {
+            "nama":"RUMAH JOGLO, JAWA TENGAH",
+            "gambar":"rumah-joglo.jpg",
+            "deskripsi":"Rumah Joglo merupakan rumah ada khas Jawa Tengah yang begitu menawan. Rumah adat yang satu ini punya kerangka bangunan utama yang terdiri dari soko guru, berupa empat tiang utama, penyangga struktur bangunan serta tumpang sari yang berupa susunan balok yang disangga soko guru. Susunan ruangan pada Joglo umumnya dibagi menjadi tiga bagian, yaitu ruangan pertemuan yang disebut pendhapa, ruang tengah atau ruang pringgitan, dan ruang belakang yang disebut dalem atau ruang keluarga. Dulu, masyarakat Jawa menganggap bahwa Rumah Joglo nggak boleh dimiliki oleh sembarang orang. Rumah Joglo hanya diperkenankan bagi kaum bangsawan, raja, dan pangeran, serta mereka yang terhormat dan terpandang. Seiring perkembangan waktu, banyak Rumah Joglo didesain ulang untuk keperluan tempat tinggal yang lebih modern, namun tidak meninggalkan filosofinya tradisi Rumah Joglo tersebut."
+        },
+        {
+            "nama":"RUMAH JOGLO SITUBONDO, JAWA TIMUR",
+            "gambar":"Joglo-Situbondo.jpg",
+            "deskripsi":"Jika di Jawa Tengah ada Rumah Joglo, maka Jawa Timur punya versi sendiri, lho. Sesuai dengan namanya, rumah adat ini bakal banyak ditemukan di daerah Situbondo. Tampil dengan bentuk limasan, Rumah Joglo Situbondo ini memiliki ciri khas dengan kesederhanaannya, tapi memiliki cita rasa seni yang tinggi. Nggak heran, secara ukuran, rumah adat ini nggak terlalu besar. Pada umumnya bangunan ini menggunakan kayu jati murni sebagai bahan bangunannya. Hal ini dipercayai karena kayu jati memiliki kekuatan yang besar serta memiliki daya tahan yang cukup lama. Tata bangunan rumah adat Joglo Situbondi ini mencerminkan hubungan antar sesama manusia serta manusia dengan alam sekitar."
+        },
+        {
+            "nama":"RUMAH BADUY, BANTEN",
+            "gambar":"baduy.jpg",
+            "deskripsi":"Sesuai dengan namanya, rumah ini merupakan bangunan khas Suku Badu yang mendiami wilayah Banten. Dibangun mengikuti kontur tanah yang didirikan, Rumah Baduy dikenal akan ramah lingkungan. Karena, konstruksinya sangat menjaga kelestarian lingkungan. Sebagian besar dan bahkan seluruh bagian dari rumah adat ini menggunakan material yang seluruhnya berasal dari alam. Tentu saja dengan tetap mempertimbangkan kelestarian alam dengan menggunakan seperlunya saja. Seluruh bangunan rumah tinggal suku Baduy menghadap ke utara-selatan dan saling berhadapan. Bagian atap dari rumah adat Baduy ini terdiri atas daun yang disebut dengan Sulah Nyanda. Nyanda memiliki makna bersandar dalam posisi tidak lurus namun agak merebah ke arah belakang."
+        },
+        {
+            "nama":"RUMAH KEBAYA, JAKARTA",
+            "gambar":"rumah-kebaya.jpg",
+            "deskripsi":"Rumah kebaya merupakan sebuah nama rumah adat suku Betawi. Disebut dengan rumah kebaya dikarenakan bentuk atapnya yang menyerupai pelana yang dilipat dan apabila dilihat dari samping maka lipatan-lipatan tersebut terlihat seperti lipatan kebaya. Ciri khas dari rumah ini adalah rumah ini memiliki teras yang luas yang berguna untuk menjamu tamu dan menjadi tempat bersantai keluarga. Hal ini dimaksudkan agar rumah terasa lebih luas, rumah ini dapat dibedakan menjadi 2 bagian dari segi sifatnya, yakni bagian depan bersifat semi publik, sehingga setiap orang dapat melihat betapa asri dan sejuknya rumah tersebut. Dan yang kedua adalah bagian belakang yang bersifat pribadi. Bagian ini hanya boleh dilihat oleh orang-orang dekat dari pihak pemilik rumah. Pada zaman dahulu, masyarakat betawi membuat sumur di depan rumahnya dan pemakaman yang berada disamping rumah. Dan, dinding rumahnya terbuat dari panel-panel yang dapat dibuka dan digeser-geser ke tepinya."
+        },
+        {
+            "nama":"BANGSAL KENCONO, YOGYAKARTA",
+            "gambar":"rumah-adat-jogja-bangsal-kencono-1.jpg",
+            "deskripsi":"Jika kamu ke Yogyakarta, jangan lupa buat keliling, mencari Bangsal Kencono yang unik. Nah, wujud yang paling nyata dari Bangsal Kencono adalah Keraton Yogyakarta. Dibangun pertama kali oleh Sri Sultan Hamengkubuwono, desain rumah ini masih sangat modern dengan tata ruang dan arsitektur yang begitu unik. Jika dilihat memang rumah ini desain menyerupai rumah adat dari Provinsi Jawa Tengah. Mulai dari tiang penyangga sampai dengan penggunaan bahan atap dan dinding bangunan. Yang unik ialah susunan tata letak dari Bangsal Kencono ini. Di mana terbagi atas 3 bagian, yakni depan inti dan belakang. Bangsal Kencono tidak lain merupakan rumah yang sangat penting peranannya. Sebagai salah satu identitas dari keberadaan Keraton Yogyakarta. Bukti bahwa kesultanan Yogyakarta masih berdiri tegak di tengah gempuran zaman yang kian modern"
+        }
+    ]
+}

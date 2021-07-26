@@ -1,0 +1,330 @@
+{
+    "nama":"Quiz Seputar Pulau Jawa",
+    "soal":[
+        {
+            "soal":"Gambar disamping merupakan pakaian adat yang berada di Pulau Jawa, yang namanya..",
+            "gambar":"pakaian-adat/jas-beludru.jpg",
+            "jawaban":1,
+            "pilihan":[
+                {"index":1,"teks":"Jas Beludru"},
+                {"index":2,"teks":"Bedahan"},
+                {"index":3,"teks":"Kebaya atau Pangsit"},
+                {"index":4,"teks":"Jas Hujang"}
+            ]
+        },
+        {
+            "soal":"Gambar disamping merupakan pakaian adat yang berada di Pulau Jawa, yang namanya..",
+            "gambar":"pakaian-adat/bedahan.png",
+            "jawaban":2,
+            "pilihan":[
+                {"index":1,"teks":"Jas Beludru"},
+                {"index":2,"teks":"Bedahan"},
+                {"index":3,"teks":"Kebaya atau Pangsit"},
+                {"index":4,"teks":"Jas Hujang"}
+            ]
+        },
+        {
+            "soal":"Gambar disamping merupakan rumah adat yang berada di Pulau Jawa, yang namanya..",
+            "gambar":"rumah-adat/rumah-kebaya.jpg",
+            "jawaban":4,
+            "pilihan":[
+                {"index":1,"teks":"Rumah Mekong"},
+                {"index":2,"teks":"Rumah Nuwo"},
+                {"index":3,"teks":"Rumah Joglo"},
+                {"index":4,"teks":"Rumah Kebaya"}
+            ]
+        },
+        {
+            "soal":"Gambar disamping merupakan pakaian adat yang berasal dari..",
+            "gambar":"pakaian-adat/Pakaian-Adat-Bali-Payungpayas.png",
+            "jawaban":3,
+            "pilihan":[ 
+                {"index":1,"teks":"Maluku"},
+                {"index":2,"teks":"Sumatera"},
+                {"index":3,"teks":"Bali"},
+                {"index":4,"teks":"Aceh"}
+            ]
+        },
+        {
+            "soal":"Luas wilayah pulau Sulawesi adalah..",
+            "jawaban":1,
+            "pilihan":[
+                {"index":1,"teks":" 180.681 km2"},
+                {"index":2,"teks":"785,753 km2"},
+                {"index":3,"teks":" 5.636,66 km2"},
+                {"index":4,"teks":"432,100 km2"}
+            ]
+        },
+        {
+            "soal":"Pulau Sumatera memiliki ... provinsi, salah satunya adalah pulau ...",
+            "jawaban":2,
+            "pilihan":[
+                {"index":1,"teks":"8 , Sumatera Utara"},
+                {"index":2,"teks":"10 , Riau"},
+                {"index":3,"teks":"10 , Maluku"},
+                {"index":4,"teks":"7 , Sumatera Barat"}
+            ]
+        },
+        {
+            "soal":"Rumah Adat disamping merupakan rumah adat yang berasal dari ...",
+            "gambar":"rumah-adat/rumah-padang.jpg",
+            "jawaban":4,
+            "pilihan":[
+                {"index":1,"teks":"Kalimantan"},
+                {"index":2,"teks":"Riau"},
+                {"index":3,"teks":"Maluku"},
+                {"index":4,"teks":"Sumatera Barat"}
+            ]
+        },
+        {
+            "soal":"Pakaian adat disamping merupakan pakaian adat yang berasal dari ...",
+            "gambar":"pakaian-adat/Pakaian-Adat-Papua-Sali.jpg",
+            "jawaban":4,
+            "pilihan":[
+                {"index":1,"teks":"Sulawesi"},
+                {"index":2,"teks":"Sumatera"},
+                {"index":3,"teks":"Maluku"},
+                {"index":4,"teks":"Papua"}
+            ]
+        },
+        {
+            "soal":"Pakaian adat disamping merupakan pakaian adat yang berasal dari Kalimantan , yang bernama ...",
+            "gambar":"pakaian-adat/pa-kalbar.png",
+            "jawaban":2,
+            "pilihan":[
+                {"index":1,"teks":"Pakaian Kustin"},
+                {"index":2,"teks":"Pakaian King Baba"},
+                {"index":3,"teks":"Pakaian Sangkarut"},
+                {"index":4,"teks":"Babaju Kun Galung Pacitan"}
+            ]
+        },
+        {
+            "soal":"Batas wilayah sebelah selatan pulau bali adalah ...",
+            "jawaban":1,
+            "pilihan":[
+                {"index":1,"teks":"Samudera Hindia"},
+                {"index":2,"teks":"Laut Bali"},
+                {"index":3,"teks":"Selat Bali"},
+                {"index":4,"teks":"Selat Lombok"}
+            ]
+        },
+        {
+            "soal":"Rumah adat disamping merupakan rumah adat yang bernama rumah ...",
+            "gambar":"rumah-adat/tongkonan.jpg",
+            "jawaban":4,
+            "pilihan":[
+                {"index":1,"teks":"Bantayo Poboide"},
+                {"index":2,"teks":"Boyang"},
+                {"index":3,"teks":"Mekongga"},
+                {"index":4,"teks":"Tongkonan"}
+            ]
+        },
+        {
+            "soal":"Rumah adat disamping merupakan rumah adat yang berasal dari ...",
+            "gambar":"rumah-adat/rumah-joglo.jpg",
+            "jawaban":2,
+            "pilihan":[
+                {"index":1,"teks":"Pulau Sumatera"},
+                {"index":2,"teks":"Pulau Jawa"},
+                {"index":3,"teks":"Pulau Sulawesi"},
+                {"index":4,"teks":"Pulau Kalimantan"}
+            ]
+        },
+        {
+            "soal":"Pakaian adat disamping berasal dari ... yang bernama ...",
+            "gambar":"pakaian-adat/pa-sumut.jpg",
+            "jawaban":1,
+            "pilihan":[
+                {"index":1,"teks":"Sumatera , Ulos"},
+                {"index":2,"teks":"Bangka Belitung , Paksian"},
+                {"index":3,"teks":"Sulawesi , Pakaian Bodo"},
+                {"index":4,"teks":"Jawa Timur , Pesa'an"}
+            ]
+        },
+        {
+            "soal":"Suku yang ada di Pulau Papua berjumlah ...",
+            "jawaban":3,
+            "pilihan":[
+                {"index":1,"teks":"4 suku"},
+                {"index":2,"teks":"5 suku"},
+                {"index":3,"teks":"6 suku"},
+                {"index":4,"teks":"7 suku"}
+            ]
+        },
+        {
+            "soal":"Gorontalo merupakan sebuah provinsi yang termasuk ke dalam pulau ...",
+            "jawaban":2,
+            "pilihan":[
+                {"index":1,"teks":"Pulau Kalimantan"},
+                {"index":2,"teks":"Pulau Sumatera"},
+                {"index":3,"teks":"Pulau Nusa Tenggara"},
+                {"index":4,"teks":"Pulau Bali"}
+            ]
+        },
+        {
+            "soal":"Rumah adat disamping bernama ...",
+            "gambar":"rumah-adat/Rumah-Adat-ntb.jpg",
+            "jawaban":3,
+            "pilihan":[
+                {"index":1,"teks":"Rumah Lamin"},
+                {"index":2,"teks":"Rumah Radank"},
+                {"index":3,"teks":"Istana Dalam Loka"},
+                {"index":4,"teks":"Rumah Betang"}
+            ]
+        },
+        {
+            "soal":"Ibu kota provinsi Nusa Tenggara Barat adalah ... ",
+            "jawaban":1,
+            "pilihan":[
+                {"index":1,"teks":"Mataram"},
+                {"index":2,"teks":"Kupang"},
+                {"index":3,"teks":"Kendari"},
+                {"index":4,"teks":"Manado"}
+            ]
+        },
+        {
+            "soal":"Ibu kota provinsi Jawa Barat adalah ... ",
+            "jawaban":2,
+            "pilihan":[
+                {"index":1,"teks":"Surabaya"},
+                {"index":2,"teks":"Bandung"},
+                {"index":3,"teks":"Semarang"},
+                {"index":4,"teks":"Manado"}
+            ]
+        },
+        {
+            "soal":"Ibu kota provinsi Jawa Tengah adalah ... ",
+            "jawaban":3,
+            "pilihan":[
+                {"index":1,"teks":"Surabaya"},
+                {"index":2,"teks":"Bandung"},
+                {"index":3,"teks":"Semarang"},
+                {"index":4,"teks":"Manado"}
+            ]
+        },
+        {
+            "soal":"Ibu kota provinsi Jawa Timur adalah ... ",
+            "jawaban":1,
+            "pilihan":[
+                {"index":1,"teks":"Surabaya"},
+                {"index":2,"teks":"Bandung"},
+                {"index":3,"teks":"Semarang"},
+                {"index":4,"teks":"Manado"}
+            ]
+        },
+        {
+            "soal":"Denpasar adalah ibu kota provinsi ... ",
+            "jawaban":2,
+            "pilihan":[
+                {"index":1,"teks":"Gorontalo"},
+                {"index":2,"teks":"Bali"},
+                {"index":3,"teks":"Makasar"},
+                {"index":4,"teks":"Nusa Tenggara Timur"}
+            ]
+        },
+        {
+            "soal":"Rumah adat disamping bernama rumah adat hanoi yang berasal dari ...",
+            "gambar":"rumah-adat/hanoi-depan.png",
+            "jawaban":4,
+            "pilihan":[
+                {"index":1,"teks":"Sulawesi"},
+                {"index":2,"teks":"Kalimantan"},
+                {"index":3,"teks":"Nusa Tenggara"},
+                {"index":4,"teks":"Papua"}
+            ]
+        },
+        {
+            "soal":"Pakaian Adat Amarasi berasal dari daerah ... ",
+            "jawaban":2,
+            "pilihan":[
+                {"index":1,"teks":"Maluku"},
+                {"index":2,"teks":"Nusa Tenggara Timur"},
+                {"index":3,"teks":"Nusa Tenggara Barat"},
+                {"index":4,"teks":"Sulawesi"}
+            ]
+        },
+        {
+            "soal":"Rumah adat disamping bernama ... ",
+            "gambar":"rumah-adat/selaso.jpg",
+            "jawaban":1,
+            "pilihan":[
+                {"index":1,"teks":"Balai Salaso Jatuh"},
+                {"index":2,"teks":"Krong Bade"},
+                {"index":3,"teks":"Rumah Gadang"},
+                {"index":4,"teks":"Nuwou Sesat"}
+            ]
+        },
+        {
+            "soal":"Pakaian adat disamping berasal dari ...",
+            "gambar":"pakaian-adat/pa-aceh.png",
+            "jawaban":2,
+            "pilihan":[
+                {"index":1,"teks":"Riau"},
+                {"index":2,"teks":"Aceh"},
+                {"index":3,"teks":"Sumbar"},
+                {"index":4,"teks":"Lampung"}
+            ]
+        },
+        {
+            "soal":"Luas wilayah pulau Kalimantan adalah..",
+            "jawaban":2,
+            "pilihan":[
+                {"index":1,"teks":" 180.681 km2"},
+                {"index":2,"teks":"743.330 km²"},
+                {"index":3,"teks":" 5.636,66 km2"},
+                {"index":4,"teks":"785,753 km2"}
+            ]
+        },
+        {
+            "soal":"Luas wilayah pulau Papua adalah..",
+            "jawaban":4,
+            "pilihan":[
+                {"index":1,"teks":" 180.681 km2"},
+                {"index":2,"teks":"743.330 km²"},
+                {"index":3,"teks":" 5.636,66 km2"},
+                {"index":4,"teks":"785,753 km2"}
+            ]
+        },
+        {
+            "soal":"Baju Ewer adalah pakaian adat yang berasal dari ...",
+            "jawaban":1,
+            "pilihan":[
+                {"index":1,"teks":" Papua Barat"},
+                {"index":2,"teks":"Papua"},
+                {"index":3,"teks":"Nusa Tenggara Timur"},
+                {"index":4,"teks":"Nusa Tenggara Barat"}
+            ]
+        },
+        {
+            "soal":"Ibu kota provinsi Kalimantan Tengah adalah ...",
+            "jawaban":1,
+            "pilihan":[
+                {"index":1,"teks":"Samarinda"},
+                {"index":2,"teks":"Tanjung Selor"},
+                {"index":3,"teks":"Palangkaraya"},
+                {"index":4,"teks":"Pontianak"}
+            ]
+        },
+        {
+            "soal":"Ibu kota provinsi Kalimantan Utara adalah ...",
+            "jawaban":2,
+            "pilihan":[
+                {"index":1,"teks":"Samarinda"},
+                {"index":2,"teks":"Tanjung Selor"},
+                {"index":3,"teks":"Palangkaraya"},
+                {"index":4,"teks":"Pontianak"}
+            ]
+        },
+        {
+            "soal":"Rumah adat disamping dinamakan rumah adat bantayo poboide , merupakan rumah adat yang berasal dari ...",
+            "gambar":"rumah-adat/bantoyo.jpeg",
+            "jawaban":2,
+            "pilihan":[
+                {"index":1,"teks":"Riau"},
+                {"index":2,"teks":"Bali"},
+                {"index":3,"teks":"Gorontalo"},
+                {"index":4,"teks":"Makasar"}
+            ]
+        }
+    ]
+}

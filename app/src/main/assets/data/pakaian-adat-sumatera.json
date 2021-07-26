@@ -1,0 +1,106 @@
+{
+    "nama":"Pakaian Adat Pulau Sumatera",
+    "data": [
+        {
+            "provinsi":"Nanggroe Aceh Darussalam",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN ULEE BALANG",
+                    "gambar": "pa-aceh.png"
+                }
+                
+            ]
+        },
+        {
+            "provinsi":"Sumatera Utara",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN ULOS",
+                    "gambar": "pa-sumut.jpg"
+                }
+                
+            ]
+        },
+        {
+            "provinsi":"Sumatera Barat",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN BUNDO KANNDUANG atau LIMPAPEH RUMAH NAN GADANG",
+                    "gambar": "pa-subar.png"
+                }
+                
+            ]
+        },
+        {
+            "provinsi":"Riau",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN TELUK BELANGA",
+                    "gambar": "pa-riau.jpg"
+                }
+                
+            ]
+        },
+        {
+            "provinsi":"Kepulauan Riau",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN TELUK BELANGA",
+                    "gambar": "pa-riau.jpg"
+                }
+                
+            ]
+        },
+        {
+            "provinsi":"Bengkulu",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN REJANG LENONG",
+                    "gambar": "pa-bengkulu.png"
+                }
+                
+            ]
+        },
+        {
+            "provinsi":"Jambi",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN KURUNG TANGGUNG",
+                    "gambar": "pa-jambi.png"
+                }
+                
+            ]
+        },
+        {
+            "provinsi":"Sumatera Selatan",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN AESAN GEDE",
+                    "gambar": "pa-sumsel.png"
+                }
+                
+            ]
+        },
+        {
+            "provinsi":"Kepulauan Bangka Belitung",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN PAKSIAN",
+                    "gambar": "pa-bangka.png"
+                }
+                
+            ]
+        },
+        {
+            "provinsi":"Lampung",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN TULANG BAWANG",
+                    "gambar": "pa-lampung.png"
+                }
+                
+            ]
+        }
+        
+    ]
+}

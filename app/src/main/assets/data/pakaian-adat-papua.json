@@ -1,0 +1,41 @@
+{
+    "nama":"Pakaian Adat Pulau Papua",
+    "data": [
+        {
+            "provinsi":"Papua",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN YOKAL ",
+                    "gambar": "Pakaian-Adat-Papua-Yokal.png"
+                },
+                {
+                    "nama": "PAKAIAN SALI ",
+                    "gambar": "Pakaian-Adat-Papua-Sali.jpg"
+                },
+                {
+                    "nama": "PAKAIAN ADAT DAYAK ",
+                    "gambar": "Pakaian-Adat-Papua-Dayak.png"
+                }
+            ]
+        },
+        {
+            "provinsi":"Papua Barat",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN EWER ",
+                    "gambar": "Pakaian-Adat-Papuabarat-Ewer.png"
+                },
+                {
+                    "nama": "PAKAIAN SORWI ",
+                    "gambar": "Pakaian-Adat-Papuabarat-Sorwi.jpg"
+                },
+                {
+                    "nama": "PAKAIAN MANTEN ",
+                    "gambar": "Pakaian-Adat-Papuabarat-manten.jpg"
+                }
+            ]
+        }
+            
+        
+    ]
+}

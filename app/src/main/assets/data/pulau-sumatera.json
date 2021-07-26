@@ -1,0 +1,58 @@
+{
+    "nama":"Sumatera",
+    "audio":"pulau-sumatera.mp3",
+    "mulai":3000,
+    "durasi":[2200,2200,1500,1100,1200,1100,1600,1600,2700,1700],
+    "provinsi": [
+        {
+            "nama":"Nanggroe Aceh Darussalam",
+            "logo":"logo-aceh.png",
+            "deskripsi":"adalah sebuah provinsi di Pulau Sumatera yang ibu kotanya berada di Banda Aceh. Aceh merupakan salah satu provinsi di Indonesia yang diberi status sebagai daerah istimewa dan juga diberi kewenangan otonomi khusus. Aceh terletak di ujung utara pulau Sumatra dan merupakan provinsi paling barat di Indonesia.Luas Wilayahnya adalah 57.956,00 km. Aceh berbatasan dengan Teluk Benggala di sebelah utara, Samudra Hindia di sebelah barat, Selat Malaka di sebelah timur, dan Sumatra Utara di sebelah tenggara dan selatan."
+        },
+        {
+            "nama":"Sumatra Utara",
+            "logo":"logo-sumut.png",
+            "deskripsi":"adalah sebuah provinsi di Indonesia yang terletak di bagian Utara Pulau Sumatra. Provinsi ini beribu kota di kota Medan, dengan luas wilayah 72.981,23 km2. Sumatra Utara merupakan provinsi dengan jumlah penduduk terbesar keempat di Indonesia, setelah provinsi Jawa Barat, Jawa Timur, dan Jawa Tengah.Di sebelah utara berbatasan dengan Provinsi Aceh dan Selat Malaka,sebelah timur berbatasan dengan Selat Malaka,sebelah selatan berbatasan dengan provinsi riau,Sumatra barat,disebelah barat berbatsan dengan aceh dan smudra Indonesia"
+        },
+        {
+            "nama":"Sumatra Barat",
+            "logo":"logo-subar.png",
+            "deskripsi":"adalah sebuah provinsi di Indonesia yang terletak di Pulau Sumatra dengan Padang sebagai ibu kotanya. Provinsi dengan wilayah seluas 42.012,89 km² ini berbatasan dengan empat provinsi, yakni Sumatra Utara, Riau, Jambi, dan Bengkulu."
+        },
+        {
+            "nama":"Riau",
+            "logo":"logo-riau.png",
+            "deskripsi":"adalah sebuah provinsi di Indonesia yang terletak di bagian tengah pulau Sumatra. Provinsi ini terletak di bagian tengah pantai Timur Pulau Sumatra, yaitu di sepanjang pesisir Selat Melaka.Provinsi Ini memiliki luas wilayah 87.023,66 km2 .Ibu kota dan kota terbesar Riau adalah Pekanbaru,"
+        },
+        {
+            "nama":"Kepulauan Riau",
+            "logo":"logo-kepri.png",
+            "deskripsi":"adalah sebuah provinsi yang ada di Indonesia dengan Ibu Kota Tanjung Pinang. Provinsi Kepulauan Riau berbatasan dengan Vietnam dan Kamboja di sebelah Utara,Malaysia dan provinsi Kalimantan Barat di sebelah Timur,provinsi Kepulauan Bangka Belitung dan Jambi di Selatan,negara Singapura, Malaysia dan provinsi Riau di sebelah Barat. Adapun luas wilayahnya sebesar 8.201,72 km², sekitar 96% merupakan lautan, dan hanya sekitar 4% daratan."
+        },
+        {
+            "nama":"Jambi",
+            "logo":"logo-jambi.png",
+            "deskripsi":"adalah sebuah Provinsi di Indonesia yang terletak di pesisir timur di bagian tengah Pulau Sumatra. Jambi adalah nama provinsi di Indonesia yang ibu kotanya bernama sama dengan nama provinsinya yaitu Jambi.Luas wilayah provinsi ini adalah 50.160,05 km2."
+        },
+        {
+            "nama":"Bengkulu",
+            "logo":"logo-bengkulu.png",
+            "deskripsi":"adalah sebuah provinsi yang berada di pulau Sumatera, Indonesia. Ibu kota provinsi Bengkulu ada di kota Bengkulu. Provinsi ini terletak di bagian Barat Daya Pulau Sumatra, yang berbatasan dengan provinsi Sumatra Barat, Jambi, Sumatra Selatan dan Lampung.Luas wilayahnya adalah 19.919,33 km2."
+        },
+        {
+            "nama":"Sumatra Selatan",
+            "logo":"logo-sumsel.png",
+            "deskripsi":"adalah provinsi di Indonesia yang terletak di bagian selatan Pulau Sumatra. Provinsi ini beribu kota di Palembang. Secara geografis, Sumatra Selatan berbatasan dengan provinsi Jambi di utara, provinsi Kep. Bangka-Belitung di timur, provinsi Lampung di selatan dan Provinsi Bengkulu di barat.Provinsi ini memiliki luas 91.592,43 km2."
+        },
+        {
+            "nama":"Kepulauan Bangka Belitung",
+            "logo":"logo-bangka.png",
+            "deskripsi":"adalah sebuah provinsi di Indonesia yang terdiri dari dua pulau utama yaitu Pulau Bangka dan Pulau Belitung serta ratusan pulau-pulau kecil, total pulau yang telah bernama berjumlah 470 buah dan yang berpenghuni hanya 50 pulau. Bangka Belitung terletak di bagian timur Pulau Sumatra, dekat dengan Provinsi Sumatra Selatan. Bangka Belitung dikenal sebagai daerah penghasil timah, memiliki pantai yang indah dan kerukunan antar etnis. Ibu kota provinsi ini ialah Pangkalpinang.Luas provinsi ini adalah 16.424,23 km2."
+        },
+        {
+            "nama":"Lampung",
+            "logo":"logo-lampung.png",
+            "deskripsi":"adalah sebuah provinsi paling Selatan di pulau Sumatra, Indonesia, dengan ibu kota atau  berada di kota Bandar Lampung. Provinsi ini memiliki dua kota yaitu kota Bandar Lampung dan kota Metro serta 13 kabupaten. Posisi provinsi Lampung secara geografis di sebelah Barat berbatasan dengan Samudra Hindia, di sebelah Timur dengan Laut Jawa, di sebelah Utara berbatasan dengan provinsi Sumatra Selatan, dan di sebelah Selatan berbatasan dengan Selat Sunda.Luas wilayahnya adalah 33.553,55 km2."
+        }
+    ]
+}

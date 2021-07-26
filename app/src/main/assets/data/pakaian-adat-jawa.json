@@ -1,0 +1,76 @@
+{
+    "nama":"Pakaian Adat Pulau Jawa",
+    "data": [
+        {
+            "provinsi":"Jawa Barat",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN JENIS JAS BELUDRU DENGAN SULAM EMAS",
+                    "gambar": "jas-beludru.jpg"
+                },
+                {
+                    "nama": "PAKAIAN BEDAHAN DAN KEBAYA",
+                    "gambar": "bedahan.png"
+                },
+                {
+                    "nama": "PAKAIAN PANGSI DAN KEBAYA",
+                    "gambar": "Pakaian-Adat-Jawa-Barat-untuk-Kelas-Bawah.jpg"
+                }
+            ]
+        },
+        {
+            "provinsi":"Jawa Tengah",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN JAWI JANGKEP DAN KEBAYA ",
+                    "gambar": "pa-jatengg.jpg"
+                }
+                
+            ]
+        },
+        {
+            "provinsi":"Jawa Timur",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN PESA'AN ",
+                    "gambar": "pa-jatim.png"
+                }
+                
+            ]
+        },
+        {
+            "provinsi":"Banten",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN PENGANTEN",
+                    "gambar": "pa-banten.png"
+                },
+                {
+                    "nama": "PAKAIAN PANGSI",
+                    "gambar": "pa-pangsi.png"
+                }
+                
+            ]
+        },
+        {
+            "provinsi":"DKI Jakarta",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN BETAWI ",
+                    "gambar": "pa-betawi.png"
+                }
+                
+            ]
+        },
+        {
+            "provinsi":"DI YOGYAKARTA",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN KEBAYA DAN SURJAN ",
+                    "gambar": "pa-yogya.jpg"
+                }
+                
+            ]
+        }
+    ]
+}

@@ -1,0 +1,200 @@
+body{
+    background: #fec504;
+}
+#quiz-logo{
+    position: fixed;
+    top: 25%;
+}
+#myProgress {
+    margin-top: 20px;
+    width: 100%;
+    background-color: rgb(34, 218, 224);
+    border-radius: 5px;
+    border: 5px solid #4cb2f6;
+}
+#myBar {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 0%;
+    height: 30px;
+    background-color: #04AA6D;
+    text-align: center; 
+    line-height: 30px; 
+    color: white;
+}
+#kotak-soal{
+    height: 50%;
+    border: 5px solid #fff4fa;
+    background: #fadfad;
+    border-radius: 10px;
+}
+input[type=radio]{
+    display: none;
+}
+input[type=radio]:checked+label{
+    background: royalblue;
+}
+@font-face {
+    font-family: 'bowlist';
+    src: url('assets/Cherry\ Blue.ttf');
+}
+@font-face {
+    font-family: 'janda';
+    src: url('assets/JandaManateeSolid.ttf');
+}
+.soal-gambar{
+    max-width: 600px;
+    margin: 7px;
+    border: 4px solid #fbc654;
+    border-radius: 10px;
+}
+.pilihan{
+    box-shadow: 3px 3px 3px #4cb2f6;
+    border-radius: 15px;
+    color: #ffffff;
+    letter-spacing: 5=0px;
+    background: #04AA6D;
+    margin: 10px 0;
+    padding: 7px 20px;
+    text-align: center;
+    text-shadow: 2px green 2px;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+}
+.waktu{
+    position: relative;
+    margin-top: 5px;
+    margin-right: 10px;
+    font-family: heroes;
+    font-weight: bold;
+    color: gray;
+}
+@media screen and (max-width: 576px) {
+    .soal-gambar{
+        max-width: 200px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .soal-gambar{
+        max-width: 300px;
+    }
+}
+@media screen and (max-width: 992px) {
+    .soal-gambar{
+        max-width: 400px;
+    }
+}
+@media screen and (max-width: 1200px) {
+    .soal-gambar{
+        max-width: 200px;
+    }
+    .pilihan{
+        padding: 3px 13px;
+        margin: 5px 0;
+        font-size: 25px;
+    }
+}
+#kotak-soal p{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: #0153ce;
+}
+.navigation{
+    border-radius: 15px;
+    padding: 10px 25px;
+    color: whitesmoke;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 2px;
+    background: #e062f6;
+    box-shadow: 3px 3px 3px #b449c7;
+}.navigation:focus{
+    outline: 0;
+    color: rgb(245, 196, 250);
+    box-shadow: 1px 1px 1px #a040b1;
+    background: #db50f3;
+}
+#openingQuiz{
+    font-family: janda;
+    margin-top: 30%;
+    text-align: center;
+}
+
+#openingQuiz h2{
+    text-shadow: -2px 2px 0 rgb(197, 128, 0);
+    color: rgb(66, 66, 66);
+}
+#openingQuiz button{
+    padding: 10px 25px;
+    margin-top: 40px;
+    font-size: 20px;
+    box-shadow: -3px 5px 5px #1a60b1;
+}
+#openingQuiz button:focus{
+    background: #1a60b1;
+    border-color: transparent;
+    color:rgb(34, 218, 224);
+    box-shadow: -1px 3px 3px #1a60b1;
+}
+@font-face {
+    font-family: 'heroes';
+    src: url('assets/ComicNeueSansID.ttf');
+}
+#closingQuiz{
+    margin-top: 30%;
+    text-align: center;
+    font-family: heroes;
+    color: rgb(134, 88, 3);
+    text-shadow: -2px 2px 0 rgb(207, 122, 11);
+}
+#closingQuiz button{
+    margin-top: 30px;
+    box-shadow: -5px 5px 3px rgb(45, 93, 207);
+}
+#closingQuiz p{
+    text-shadow: 0 0 0 ;
+}
+#closingQuiz h3{
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+@media screen and (max-width: 1000px) {
+    #openingQuiz{
+        margin-top: 15%;
+    }
+    #closingQuiz{
+        margin-top: 15%;
+    }
+}
+.close-btn {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 10px;
+    right: 20px;
+    border-radius: 50%;
+    border: 2px solid #f44336;
+    cursor: pointer;
+  }
+  
+  .close-btn:after,
+  .close-btn:before {
+    content: "";
+    position: absolute;
+    width: 70%;
+    height: 2px;
+    background: #f44336;
+    left: 15%;
+    top: 50%;
+    top: calc(50% - 1px);
+    transform-origin: 50% 50%;
+    transform: rotate(45deg);
+  }
+  
+  .close-btn:before {
+    transform: rotate(-45deg);
+  }

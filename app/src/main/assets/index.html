@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>ThreeJS Project</title>
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/three/build/three.js"></script>
+    <script src="node_modules/three/examples/js/loaders/GLTFLoader.js"></script>
+    <script src="node_modules/three/examples/js/controls/OrbitControls.js"></script>
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="node_modules/@mdi/font/css/materialdesignicons.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<style>
+</style>
+<body>
+  <audio src="audio/backsound.mp3" muted="true" autoplay="true" id="backsound"></audio> 
+    <canvas id="scene"></canvas>
+    <main>
+      <div class="container">
+        <div class="row">
+          <div class="col-12" style="text-align: center;margin-top: -20px;">
+            <h4 id="pilih-pulau">SILAHKAN PILIH PULAU</h4>
+          </div>
+        </div>
+        <button class="btn btn-mute" id="mute-backsound">
+          <i class="mdi mdi-volume-high"></i>
+          <i class="mdi mdi-volume-mute"></i>
+        </button>
+        <button class="btn btn-mute" id="mute-audio">
+          <i class="mdi mdi-volume-high"></i>
+          <i class="mdi mdi-volume-mute"></i>
+        </button>
+        <a href="quiz-pulau.html" class="btn" id="btn-quiz"><i class="mdi mdi-comment-bookmark"></i> Quizz</a>
+        <div class="modal fade" id="pulau" role="dialog">
+          <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+              <div class="modal-title">
+                <h2 class="text-header pt-3 pl-4"></h2>
+                <label class="modal-label modal-toggle close-btn Close" data-dismiss="modal" aria-label="Close"></label>
+              </div>
+              <div class="modal-body">
+                <div class="menu">
+                  <div class="form-row">
+                    <div class="col-6 mb-2">
+                      <button class="btn btn-block btn-outline-secondary text-white menu-list mb-2" onclick="showInfo()">INFO</button>
+                    </div>
+                    <div class="col-6 mb-2">
+                      <button class="btn btn-block btn-outline-secondary text-white menu-list" onclick="showProvinsi()">PROVINSI</button>
+                    </div>
+                    <div class="col-6 mb-2">                      
+                      <button class="btn btn-block btn-outline-secondary text-white menu-list" onclick="showRumahAdat()">RUMAH ADAT</button>
+                    </div>
+                    <div class="col-6 mb-2">
+                      <button class="btn btn-block btn-outline-secondary text-white menu-list" onclick="showPakaianAdat()">PAKAIAN ADAT</button>
+                    </div>
+                  </div>
+                </div>
+                <div class="info">
+                  <audio src="" id="audio"></audio>
+                  <div class="logo-body">
+      
+                  </div>
+                  <div class="text-body"></div>
+                </div>
+                <div class="provinsi">
+                  
+                </div>
+                <div class="rumah-adat"></div>
+                <div class="pakaian-adat">
+                  <div class="card-columns"></div>
+                </div>
+                </div>
+              </div>
+          </div>
+        </div>
+        </div>
+    </main>
+    <script>
+      if(sessionStorage.getItem('soal') != null){
+        window.location.href = 'quiz-pulau.html'
+      }
+    </script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="lib/event.js"></script>
+    <script src="lib/script.js"></script>
+    <script src="lib/data.js"></script>
+</body>
+</html>

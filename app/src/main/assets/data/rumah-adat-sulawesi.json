@@ -1,0 +1,35 @@
+{
+    "nama":"Rumah Adat Pulau Sulawesi",
+    "rumah_adat":[
+        {
+            "nama":"RUMAH BANTAYO POBOIDE,GORONTALO",
+            "gambar": "bantoyo.jpeg",
+            "deskripsi":"Bantayo Poboide memiliki arti bangunan tempat bermusyawarah, sesuai dengan artinya rumah adat ini digunakan untuk musyawarah.Selain untuk musyarawah, Bantayo Poboide digunakan sebagai tempat upacara adat, pernikahan, penerimaan tamu ngeara, dan acara adat lainnya.Material yang digunakan untuk pembangunan rumah adalah kayu nangka, tetapi telah dilakukan pembangunan ulang pada tahun 1985 menggunakan kayu hitam dan kayu cokelat kemerahan karena dianggap kuat.Pembuatan kusen, ukiran jendela, pegangan tangga, dan pagar blankon dibuat dari kayu hitam.Sementara kayu cokelat digunakan untuk membuat pintu, dinding, jendela, dan lantai."
+        },
+        {
+            "nama":"RUMAH BOYANG,SULAWESI BARAT",
+            "gambar":"boyang.jpg",
+            "deskripsi":"Rumah adat Boyang berasal dari Suku Mandar, suku asli Provinsi Sulawesi Barat.Ciri khas dari rumah adat ini adalah terdapat pahatan dan ukiran pada bagian-bagian rumah dengan motif khas Suku Mandar.Atapnya berbentuk prisma yang memanjang dari depan hingga belakang rumah.Tinggi tiang yang digunakan sebagai penyokong berbeda-beda karena disesuaikan dengan status sosial pemiliknya, tetapi rata-rata memiliki tinggi 2 meter.Bagian-bagian rumah Boyang terdiri dari Samboyang, Tangnga Boyang, Bui Boyang, Tapang atau Loteng, Paceko, Lego-lego, dan Naong Boyang."
+        },
+        {
+            "nama":"RUMAH TONGKONAN,SULAWESI SELATAN",
+            "gambar":"tongkonan.jpg",
+            "deskripsi":"Tongkonan adalah rumah adat yang berasal dari Suku Toraja.Fungsi rumah adat tersebut sebagai tempat tinggal dan tempat upacara adat masyarakat di Tana Toraja.Material yang digunakan untuk membangun Rumah Tongkonan adalah kayu uru yang mudah didapatkan di Sulawesi Selatan.Kunikan dari rumah adat satu ini adalah terdapat ukiran-ukiran cantik yang didominasi oleh warna merah, kuning, dan hitam.Selain itu atapnya memiliki bentuk yang berbeda dari rumah adat lainnya, yaitu berbentuk seperti perahu yang telungkup dengan buritan.Bagian depan rumah terdapat ornamen bermotif pancaran sinar matahari (pa’barre allo) dan ayam jantan (pa’manuk londong)."
+        },
+        {
+            "nama":"RUMAH BALLE DAKO,SULAWESI TENGAH",
+            "gambar":"balle.jpg",
+            "deskripsi":"Rumah adat ini jarang sekali dibahas, letaknya berada di Kabupaten Tolitoli, Sulawesi Tengah.Dulu rumah adat Balle Dako digunakan sebagai pusat kendali kerajaan yang dibangun bersama dengan istana masjid atau bele masigi, tetapi pada zaman Belanda rumah ini hancur.Baru pada tahun 2006, dilakukan pembangunan rumah dengan menyesuaikan arsitektur aslinya yang pernah didokumentasikan oleh Belanda.Rumah ini memiliki tiga teras yang terletak di depan, samping kiri, dan samping kanan.Bagian-bagian rumah memiliki ornamen ukiran yang berbeda-beda dengan makna yang berhubungan dengan kebudayaan masyakarat Tolitoli."
+        },
+        {
+            "nama":"RUMAH MEKONGGA,SULAWESI TENGGARA",
+            "gambar":"mekong.jpg",
+            "deskripsi":"Rumah adat Mekongga berasal dari Suku Mekongga atau Suku Raha. Rumah adat ini dulu dibangun oleh Raja Latambaga sebagai tempat pertemuan dengan para pemangku adat.Namun, seiring berjalannya waktu, terjadi pelapukan pada material penyusun rumah yang menyebabkan rumah rusak.Setelah adanya pemekaran wilayah Indonesia, daerah Mekongga dijadikan kabupaten dengan nama Kabupaten Kaloka.Sejak saat itu, masyarakat mulai membangun kembali rumah adat Mekongga dengan mempertahankan keaslian rumah.Ciri khas rumah ini adalah memiliki tiang penyangga berjumlah 12 yang melambangkan 12 pemimpin berpengaruh di Mekongga.Ciri khas lainnya yaitu anak tangga berjumlah 30 yang melambangkan 30 helai dari bulu sayap burung kongga. "
+        },
+        {
+            "nama":"BANGSAL MONGONDOW,SULAWESI UTARA",
+            "gambar":"mongon.jpg",
+            "deskripsi":"Rumah ini memiliki bentuk rumah panggung seperti kebanyakan rumah adat lainnya di Pulau Sulawesi.Keunikan rumah adat Bolaang Mongondow yaitu bentuk atapnya melintang dan memiliki bubungan yang lancip atau curam.Bagian rumah terdiri dari ruang depan, ruang tengah, ruang tidur, dan ruang makan."
+        }
+    ]
+}

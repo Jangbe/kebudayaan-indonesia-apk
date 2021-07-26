@@ -1,0 +1,38 @@
+{
+    "nama":"Provinsi Pulau Sulawesi",
+    "audio":"pulau-sulawesi.mp3",
+    "mulai":3400,
+    "durasi":[1900,1200,1800,1700,1500,1400],
+    "provinsi": [
+        {
+            "nama":"Sulawesi Selatan",
+            "logo":"logo-sulsel.png",
+            "deskripsi":"adalah sebuah provinsi di Indonesia yang terletak di bagian selatan pulau Sulawesi. Pusat pemerintahan atau ibukota provinsi berada di kota Makassar. Pada tahun 2020, penduduk Sulawesi Selatan berjumlah 9.073.509 jiwa, dengan kepadatan 194,22 jiwa/km².Luas wilayah provinsi ini addalah 46.717,48 km²."
+        },
+        {
+            "nama":"Sulawesi Utara",
+            "logo":"logo-sulut.png",
+            "deskripsi":"adalah salah satu provinsi yang terletak di ujung utara Pulau Sulawesi, Indonesia, dengan ibukota terletak di kota Manado. Sulawesi Utara berbatasan dengan Laut Maluku dan Samudera Pasifik di sebelah timur, Laut Maluku dan Teluk Tomini di sebelah selatan, Laut Sulawesi dan provinsi Gorontalo di sebelah barat, dan provinsi Davao del Sur (Filipina) di sebelah utara. Penduduk Sulawesi Utara pada tahun 2020 berjumlah 2.621.923 jiwa, dan luas wilayahnya adalah 13.892,47 km2 ."
+        },
+        {
+            "nama":"Sulawesi Tenggara",
+            "logo":"logo-sultengg.png",
+            "deskripsi":"merupakan sebuah provinsi di Indonesia yang terletak bagian tenggara pulau Sulawesi dengan ibu kota Kendari.Provinsi Sulawesi Tenggara terletak di Jazirah Tenggara Pulau Sulawesi, secara geografis terletak di bagian selatan garis khatulistiwa di antara 02°45' – 06°15' Lintang Selatan dan 120°45' – 124°30' Bujur Timur serta mempunyai wilayah daratan seluas 38.140 km² (3.814.000 ha) dan perairan (laut) seluas 110.000 km² (11.000.000 ha)."
+        },
+        {
+            "nama":"Sulawesi Barat",
+            "logo":"logo-sulbar.png",
+            "deskripsi":"adalah provinsi ke-33 dalam negara Indonesia yang dibentuk pada tahun 2004. Letak Sulawei Barat di Pulau Sulawesi dengan garis lintang 00045'59'' - 03034'00'' Lintang Selatan dan 118048'59'' - 119055'06'' Bujur Timur. Perbatasan wilayah Sulawesi Barat yaitu Sulawesi Tengah di bagian utara, Sulawesi Selatan di bagian Timur dan Selatan dan Selat Makassar di bagian Barat. Pada tahun 2020, penduduk Sulawesi Barat berjumlah 1.419.229 jiwa dengan kepadatan 85,00 jiwa/km2."
+        },
+        {
+            "nama":"Sulawesi Tengah",
+            "logo":"logo-sulteng.png",
+            "deskripsi":"adalah sebuah provinsi di bagian tengah Pulau Sulawesi, Indonesia. Ibu kota provinsi ini adalah Kota Palu. Luas wilayahnya 61.841,29 km², dan jumlah penduduk sebanyak 2.985.734 jiwa (2020).[1] Sulawesi Tengah memiliki wilayah terluas di antara semua provinsi di Pulau Sulawesi, dan memiliki jumlah penduduk terbanyak kedua di Pulau Sulawesi setelah provinsi Sulawesi Selatan.Wilayah Provinsi Sulawesi Tengah bagian utara berbatasan dengan Laut Sulawesi dan Provinsi Gorontalo, bagian timur berbatasan dengan Provinsi Maluku, bagian selatan berbatasan dengan Provinsi Sulawesi Barat dan Sulawesi Selatan, bagian tenggara berbatasan dengan Sulawesi Tenggara, dan bagian barat berbatasan dengan Selat Makassar."
+        },
+        {
+            "nama":"Gorontalo",
+            "logo":"logo-gorontalo.jpg",
+            "deskripsi":"adalah provinsi di Indonesia yang lahir pada tanggal 5 Desember 2000[8] dan memiliki ibu kota provinsi bernama sama yaitu, Kota Gorontalo. Sama halnya dengan ibu kotanya, Provinsi Gorontalo terkenal dengan julukan Serambi Madinah. Wilayah Provinsi Gorontalo yang terletak pada bagian utara Pulau Sulawesi, tepatnya pada 0° 19′ 00” - 1° 57′ 00” LU (Lintang Utara) dan 121° 23′ 00” - 125° 14′ 00” BT (Bujur Timur). Luas wilayah Provinsi Gorontalo secara keseluruhan adalah 12.435 km²."
+        }
+    ]
+}

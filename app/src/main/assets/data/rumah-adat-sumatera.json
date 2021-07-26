@@ -1,0 +1,55 @@
+{
+    "nama":"Rumah Adat Pulau Sumatera",
+    "rumah_adat":[
+        {
+            "nama":"RUMAH KRONG BADE, ACEH",
+            "gambar": "rumah-aceh.jpg",
+            "deskripsi":"Rumah adat Krong Bade adalah rumah dengan menggunakan struktur panggung yang memiliki tinggi 2-3 meter dari permukaan tanah. Secara keseluruhan rumah ini terbuat dari bahan kayu kecuali bagian atapnya dan bagian lantainya.Pada umumnya rumah adat aceh memiliki atap yang terbuat dari daun rumbia atau daun enau yang telah dianyam. Dan pada bagian lantainya terbuat dari bambu yang telah disusun hingga menjadi sebuah lantai. Karena menggunakan struktur panggung, rumah adat aceh memiliki ruang bawah tanah.Biasanya ruangan itu digunakan untuk menyimpan bahan pangan atau difungsikan sebagai gudang. Selain itu juga digunakan sebagai aktivitas para kaum wanita."
+        },
+        {
+            "nama":"RUMAH GADANG, SUMATERA BARAT",
+            "gambar":"rumah-padang.jpg",
+            "deskripsi":"Pada dasarnya rumah ini adalah rumah adat suku minagnkabau, yang juga memiliki sebutan lain, yaitu rumah godang. Rumah ini adalah salah satu rumah panggung yang memiliki ukuran yang besar dan berbentuk persegi panjang.Sama seperti rumah adat pada umumnya, rumah ini juga terbuat dari material yang berasal dari alam. Seperti tiang penyangga, dinding dan lantai yang terbuat dari bahan kayu atau bambu. Sementara pada bagian atap terbuat dari ijuk, dan atap rumah gadang memiliki bentuk seperti tanduk kerbau.Walaupun secara keseluruhan terbuat dari bahan alam, namun rumah ini juga memiliki arsitektur yang kuat. Selain menjadi simbol suku minang, rumah ini juga di fungsikan untuk tempat tinggal suku minang. "
+        },
+        {
+            "nama":"RUMAH BOLON, SUMATERA UTARA",
+            "gambar":"bolon.jpg",
+            "deskripsi":"Rumah bolon adalah salah satu budaya yang dimiliki oleh suku batak di Sumatera Utara. Sama seperti rumah lainnya rumah ini juga terbuat dari bahan yang ada di alam sekitar.Tiang yang digunakan untuk menyangga rumah ini memiliki tinggi sekitar 1,75 meter dari permukaan tanah. Yang terbuat dari kayu gelondongan dengan ukuran diameter lebih dari 40 cm. Dindingnya terbuat dari anyaman, lantainya terbuat dari papan dan atapnya terbuat dari daun rumbia atau ijuk."
+        },
+        {
+            "nama":"RUMAH LIMAS, SUMATERA SELATAN",
+            "gambar":"limas.jpg",
+            "deskripsi":"Rumah lilmas adalah salah satu rumah adat yang berukuran besar, karena luasnya bisa mencapai 400 sampai 1000 meter persegi.Karena memiliki ukuran yang sangat luas, biasanya rumah ini difungsikan sebagai tempat hajatan atau acara adat lainnya. Sebagian besar komponen rumah ini terbuat dari kayu tembesu seperti dinding, pintu dan lantai. Tetapi tiang untuk penyangga rumah ini terbuat dari kayu unglen yang tahan air."
+        },
+        {
+            "nama":"RUMAH NUWOU SESAT, LAMPUNG",
+            "gambar":"nuwo.jpg",
+            "deskripsi":"Rumah adat lampung adalah rumah panggung yang terbuat dari bahan kayu atau papan. Rumah ini difungsikan masyarakat sekitar sebagai balai atau tempat pertemuan masyarakat kampung.Pada awalnya masyarakat sekitar membuat rumah ini dengan tujuan agar penghuninya terhidar dari serangan hewan buas. Karena hutan lampung adalah hutan yang memiliki kekayaan hayati yang tinggi. Yang tidak menutup kemungkinan hal tersebut dapat menyebabkan binatang buas turun ke pemukiman warga."
+        },
+        {
+            "nama":"RUMAH PANGGUNG, BANGKA BELITUNG",
+            "gambar":"panggung.jpg",
+            "deskripsi":"Rumah Panggung berbentuk panggung yang terbuat dari material yang didapat dari alam. Seperti bagian tiang dan lantainya yang terbuat dari bahan dasar kayu. Selain itu juga atap rumah ini yang terbuat dari dau rumbia dan ijuk.Tiang yang digunakan untuk penyangga rumah ini berjumlah sembilan buah tiang. Satu tiang di berukuran besar dijadikan sebagai tiang utama yang di letakkan ditegah-tengah bangunan. Dengan maksud agar rumah ini dapat berdiri dengan tegak dan agar tidak mudah roboh.Selain menjadi sebagai salah satu simbol dan ikon yang dimiliki oleh masyarakat Bangka Belitung. Pada jaman dahulu rumah ini digunakan sebagai tempat untuk acara atau sebagai tempat tinggal warga Bangka Belitung. Rumah ini terdiri dari dua ruang yaitu, ruang utama dan dapur."
+        },
+        {
+            "nama":"RUMAH BUBUNGAN LIMA, BENGKULU",
+            "gambar":"bubungan.jpg",
+            "deskripsi":"Bubungan lima adalah rumah panggung yang didesain agar dapat menahan dari getaran gempa bumi. Desain yang mampu menahan dari getaran gempa bumi ada pada bagian tiang penyangganya. Karena rumah ini memiliki tiang penyangga dengan jumlah 15 dengan tinggi mencapai 2 meter. Tiang pada rumah ini diletakkan di atas batu yang telah dipendam sebelumnya, agar tidak goyah saat terjadi gempa.Nama bubungan lima sebenarnya diambil berdasarkan nama dari desain atap rumah ini. Selain bubungan lima, rumah adat Bengkulu juga memiliki nama lain seperti bubungan haji bubungan limas dan bubungan jembatan. Rumah ini biasanya digunakan untuk tempat tinggal para tetua adat dan para penghulu."
+        },
+        {
+            "nama":"RUMAH KAJANG LEKO, JAMBI",
+            "gambar":"kajang-leko.png",
+            "deskripsi":"Kajang leko adalah sebuah rumah panggung yang menggunakan konsep dari arsitektur Marga Batin. Rumah ini juga dilengkapi oleh 30 tiang penyangga, 24 tiang sebagai tiang penyangga utama dan sisanya sebagai tiang pelambang.Karena didesain sebagai rumah panggung, rumah ini juga memiliki tangga sebagai penghubung antara tanah dengan lantai rumah ini. Uniknya rumah kajang leko,  rumah ini memiliki 2 buah tangga yang berbeda. Satu tangga berada di sebelah kanan rumah sebagai tangga utama dan satu lagi disebut dengan tangga penteh.Pada saat ini rumah kajang leko berperan sebagai simbol atau ikon budaya Jambi di kancah Nasional. Tetapi, sebetulnya masyarakat dahulu menggunakan kajang leko sebagai tempat tinggal mereka sehari-hari."
+        },
+        {
+            "nama":"RUMAH BALAI SALASO JATUH, RIAU",
+            "gambar":"selaso.jpg",
+            "deskripsi":"Balai salaso jatuh adalah sebuah rumah adat yang berasal dari Riau, digunakan untuk musyawarah dan kegiatan bersama. Bisa disimpulkan bahwa balai salaso jatuh tidak di gunakan sebagai rumah pribadi. Tetapi bangungan ini difungsikan sebagai sarana musyawarah dan kegiatan umum lainnya.Sesuai dengan kegunaan atau manfaat dari balai salaso jatuh, bangunan ini mempunyai sebutan-sebutan lain yang dikenal di masyarakat sekitar. Misalnya balai panobatan, balirung sari, balai karapatan dan lain-lain. Akan tetapi  fungsi dari bangunan ini telah digantikan oleh rumah penghulu atau masjid"
+        },
+        {
+            "nama":"RUMAH MELAYU ATAP LONTIK, KEPULAUAN RIAU",
+            "gambar":"rumah-melayu.png",
+            "deskripsi":"Rumah adat Sumatera yang selanjutnya adalah rumah adat Kepulauan Riau atau rumah melayu atap lontik. Rumah melayu atap lontik berasal dari Kab. Kampar Provinsi Riau. Disebut dengan rumah melayu atap lontik karena rumah ini memiliki hiasan pada dinding bagian depan. Rumah ini akan terlihat seperti rumah-rumah perahu yang di buat warga apabila dilihat dari kejahuan. Rumah ini juga sering disebut oleh warga sekitar dengan sebutan lancing dan pancalang rumah. Salah satu hal yang menjadi ciri khas rumah ini terdapat pada anak tangga yang ada. "
+        }
+    ]
+}

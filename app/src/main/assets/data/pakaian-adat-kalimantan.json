@@ -1,0 +1,51 @@
+{
+    "nama":"Pakaian Adat Pulau Kalimantan",
+    "data": [
+        {
+            "provinsi":"Kalimantan Timur",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN KUSTIN",
+                    "gambar": "pa-kaltim.png"
+                }
+            ]
+        },
+        {
+            "provinsi":"Kalimantan Selatan",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN BABAJU KUN GALUNG PACINAN",
+                    "gambar": "pa-kalsel.png"
+                }
+            ]
+        },
+        {
+            "provinsi":"Kalimantan Barat",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN KING BABA",
+                    "gambar": "pa-kalbar.png"
+                }
+            ]
+        },
+        {
+            "provinsi":"Kalimantan Utara",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN  TA'A dan SAPEI SAPAQ",
+                    "gambar": "pa-kalut.jpg"
+                }
+            ]
+        },
+        {
+            "provinsi":"Kalimantan Tengah",
+            "pakaian": [
+                {
+                    "nama": "PAKAIAN  SANGKARUT",
+                    "gambar": "pa-kalteng.png"
+                }
+            ]
+        }
+        
+    ]
+}
