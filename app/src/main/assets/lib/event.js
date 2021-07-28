@@ -189,3 +189,7 @@ $('.btn-mute').on('click',function(){
 $('.switch').on('click',function(){
     $(this).toggleClass('switchOn')
 })
+
+function showInfo(){
+    $('#modal-info').modal('show');
+}
