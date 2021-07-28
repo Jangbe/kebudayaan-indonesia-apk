@@ -10,9 +10,9 @@
 
     <ImageView
         android:layout_width="300dp"
-        android:layout_height="300dp"
-        android:id="@+id/logo"
-        android:src="@drawable/tutwuri"
+        android:layout_height="200dp"
+        android:id="@+id/logo1"
+        android:src="@drawable/mame"
         android:layout_centerVertical="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />

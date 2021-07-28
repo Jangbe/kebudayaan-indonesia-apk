@@ -2,33 +2,30 @@ package com.smkypc.bti;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.app.ActivityOptions;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
-import android.transition.Explode;
 import android.view.View;
-import android.view.Window;
 
-public class SplashActivity extends AppCompatActivity {
+public class SplashActivity2 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_splash);
+        setContentView(R.layout.activity_splash2);
 
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
 
                 //setelah loading maka akan langsung berpindah ke home activity
-                Intent home=new Intent(SplashActivity.this, SplashActivity2.class);
+                Intent home=new Intent(SplashActivity2.this, MainActivity.class);
                 startActivity(home);
                 overridePendingTransition(R.anim.fade_in,R.anim.fade_out);
                 finish();
 
             }
-        },2000);
+        },1500);
         hideSystemUI();
     }
 

@@ -190,6 +190,6 @@ $('.switch').on('click',function(){
     $(this).toggleClass('switchOn')
 })
 
-function showInfo(){
+function showInfoModal(){
     $('#modal-info').modal('show');
 }
