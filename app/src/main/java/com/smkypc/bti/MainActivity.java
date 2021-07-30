@@ -13,12 +13,15 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
+
 import cn.pedant.SweetAlert.SweetAlertDialog;
 
 
 public class MainActivity extends AppCompatActivity {
     WebView webviewku;
     WebSettings websettingku;
+    FloatingActionButton fab;
 
     @SuppressLint("SetJavaScriptEnabled")
     @Override
@@ -39,6 +42,18 @@ public class MainActivity extends AppCompatActivity {
 
         webviewku.loadUrl("file:///android_asset/index.html");
         hideSystemUI();
+
+        fab = findViewById(R.id.fab);
+        fab.setOnClickListener(v -> {
+            new AlertDialog.Builder(this)
+                    .setIcon(R.drawable.logo)
+                    .setTitle(R.string.app_name)
+                    .setMessage("Kamu yakin ingin keluar?")
+                    .setPositiveButton("Ya", (dialog, which) -> {
+                        finish();
+                    })
+                    .setNegativeButton("Batal", (dialog, which) -> dialog.cancel()).show();
+        });
     }
 
     @Override
@@ -78,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onBackPressed() {
         new AlertDialog.Builder(this)
-            .setIcon(R.mipmap.ic_launcher)
+            .setIcon(R.drawable.logo)
             .setTitle(R.string.app_name)
             .setMessage("Kamu yakin ingin keluar?")
             .setPositiveButton("Ya", (dialog, which) -> {

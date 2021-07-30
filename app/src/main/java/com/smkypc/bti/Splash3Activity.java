@@ -7,19 +7,19 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.view.View;
 
-public class SplashActivity2 extends AppCompatActivity {
+public class Splash3Activity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_splash2);
+        setContentView(R.layout.activity_splash3);
 
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
 
                 //setelah loading maka akan langsung berpindah ke home activity
-                Intent home=new Intent(SplashActivity2.this, Splash3Activity.class);
+                Intent home=new Intent(Splash3Activity.this, MainActivity.class);
                 startActivity(home);
                 overridePendingTransition(R.anim.fade_in,R.anim.fade_out);
                 finish();
