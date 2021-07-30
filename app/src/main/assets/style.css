@@ -201,6 +201,11 @@ main{
   top: 5%;
   left: 5%;
 }
+#btn-exit{
+  top: 5%;
+  right: 5%;
+  background: red;
+}
 #modal-info .modal-dialog .modal-content .modal-title{
   font-family: Hello;
 }

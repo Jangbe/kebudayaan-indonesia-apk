@@ -38,22 +38,27 @@ public class MainActivity extends AppCompatActivity {
         websettingku.setMediaPlaybackRequiresUserGesture(false);
 
         webviewku.setWebChromeClient(new WebChromeClient());
-        webviewku.setWebViewClient(new WebViewClient());
-
+        webviewku.setWebViewClient(new WebViewClient(){
+            @SuppressWarnings("deprecation")
+            @Override
+            public boolean shouldOverrideUrlLoading(WebView view, String url){
+                if(url.contains("http://exitme")){
+                    new AlertDialog.Builder(MainActivity.this)
+                        .setIcon(R.drawable.logo)
+                        .setTitle(R.string.app_name)
+                        .setMessage("Kamu yakin ingin keluar?")
+                        .setPositiveButton("Ya", (dialog, which) -> {
+                            finish();
+                        })
+                        .setNegativeButton("Batal", (dialog, which) -> dialog.cancel()).show();
+                }else{
+                    view.loadUrl(url);
+                }
+                return true;
+            }
+        });
         webviewku.loadUrl("file:///android_asset/index.html");
         hideSystemUI();
-
-        fab = findViewById(R.id.fab);
-        fab.setOnClickListener(v -> {
-            new AlertDialog.Builder(this)
-                    .setIcon(R.drawable.logo)
-                    .setTitle(R.string.app_name)
-                    .setMessage("Kamu yakin ingin keluar?")
-                    .setPositiveButton("Ya", (dialog, which) -> {
-                        finish();
-                    })
-                    .setNegativeButton("Batal", (dialog, which) -> dialog.cancel()).show();
-        });
     }
 
     @Override
